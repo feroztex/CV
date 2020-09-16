@@ -1,0 +1,8 @@
+.social-link {
+  padding: 0 3px;
+  color: #007fff;
+}
+
+.social-link:hover {
+  filter: invert();
+}
